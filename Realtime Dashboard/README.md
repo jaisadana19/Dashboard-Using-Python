@@ -1,4 +1,4 @@
-# Build a Realtime Dashboard With Python and Pusher
+# Realtime Dashboard With Python and Pusher
 
 This is a demo application showing how to build a realtime dashboard using [Python](https://www.python.org/) and [Pusher](https://pusher.com/). You can read about how it was created on [Pusher's blog](https://pusher.com/tutorials/live-dashboard-python).
 
